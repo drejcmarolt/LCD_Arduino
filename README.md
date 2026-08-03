@@ -1,2 +1,2 @@
 # LCD_Arduino
-Display for Arduino UNO R#
+Display for Arduino UNO R3
